@@ -49,5 +49,5 @@ This is a Decision-Based Service System — a side project outside my main focus
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/YOUR-USERNAME/PrintingShopSystem.git
+   git clone https://github.com/antony-wala/PrintingShopSystem.git
    cd PrintingShopSystem
